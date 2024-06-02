@@ -1,0 +1,13 @@
+.items {
+    height: 400px;
+    width: 45%;
+    background-color: red;
+    margin: 1rem;
+    width: 45%;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
